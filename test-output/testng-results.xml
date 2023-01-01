@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-01T12:37:46 SGT" name="Default suite" finished-at="2023-01-01T12:37:59 SGT" duration-ms="12736">
+    <groups>
+    </groups>
+    <test started-at="2023-01-01T12:37:46 SGT" name="Default test" finished-at="2023-01-01T12:37:59 SGT" duration-ms="12736">
+      <class name="End2EndProjects.Guru99Bank.AppTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:End2EndProjects.Guru99Bank.AppTest@38cee291]" started-at="2023-01-01T12:37:47 SGT" name="launchApplication" finished-at="2023-01-01T12:37:55 SGT" duration-ms="8836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="changePassword()[pri:0, instance:End2EndProjects.Guru99Bank.AppTest@38cee291]" started-at="2023-01-01T12:37:55 SGT" name="changePassword" finished-at="2023-01-01T12:37:58 SGT" duration-ms="2905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:End2EndProjects.Guru99Bank.AppTest@38cee291]" started-at="2023-01-01T12:37:58 SGT" name="tearDown" finished-at="2023-01-01T12:37:59 SGT" duration-ms="924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- End2EndProjects.Guru99Bank.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
